@@ -1,0 +1,4 @@
+Client ID : qnlWf-2GwFqtvbWefr51Zq8dKUTCpzq4qhoi00jjLDyrcMTO61MDo_02REop1iVf
+Client secret : ny0sHjgKIHvVfkYtM6iWtdw2zDqrFEgZwHleKVMLj8WVeWtSllzi3bOc_sBau2O-y-79_qMQnZ6CTif4Lschcw
+
+URL : http://localhost:5173/
